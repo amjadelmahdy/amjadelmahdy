@@ -1,4 +1,4 @@
-<h1 align="center">Amjad M. Elmahdy<br>👋</h1>
+<h1 align="center">Amjad Elmahdy<br>👋</h1>
 <h3 align="center">Nodejs Developer & UI/UX Designer</h3>
 
 <p align="left"> <a href="https://twitter.com/amjadelmahdy" target="blank"><img src="https://img.shields.io/twitter/follow/amjadelmahdy?logo=twitter&style=for-the-badge" alt="amjadelmahdy" /></a> </p>
